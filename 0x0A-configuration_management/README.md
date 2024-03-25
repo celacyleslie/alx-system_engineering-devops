@@ -1,0 +1,1 @@
+Writing Puppet manifest files
